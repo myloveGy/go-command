@@ -1,0 +1,7 @@
+bin/
+.idea/
+.DS_Store
+cover.out
+cover.html
+cover_total.out
+gen
